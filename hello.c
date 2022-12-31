@@ -3,6 +3,6 @@
 
 
 int main(void){
-    puts("Hello Ubuntu!");
+    puts("Hello Manjaro!");
     return EXIT_SUCCESS;
 }
